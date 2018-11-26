@@ -3,7 +3,7 @@ pipenv = {path = ".", editable = true}
 "flake8" = ">=3.3.0,<4"
 pytest = "*"
 mock = "*"
-sphinx = "<=1.5.5"
+sphinx = "<1.8.3"
 twine = "*"
 sphinx-click = "*"
 pytest-xdist = "*"
